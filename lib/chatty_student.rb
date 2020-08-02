@@ -1,3 +1,4 @@
 class ChattyStudent
-  super
+  super hello
+  puts ""
   
